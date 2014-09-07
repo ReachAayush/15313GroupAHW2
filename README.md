@@ -1,11 +1,11 @@
 15-313 Group A HW2
 ==============
 
-Fall 2014
-Carnegie Mellon University
-
-Aayush Agarwal
-Brian Bergeron
-Arushi Chawla
-Elizabeth Ottens
+Aayush Agarwal<br>
+Brian Bergeron<br>
+Arushi Chawla<br>
+Elizabeth Ottens<br>
 Harry Zeng
+
+Fall 2014<br>
+Carnegie Mellon University
