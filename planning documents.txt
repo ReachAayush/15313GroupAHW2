@@ -1,0 +1,31 @@
+#added by Aayush -- 9/7
+
+we need to do the following by Tuesday:
+(from the assignment pdf)
+1. A schedule that includes tasks, milestones, dependencies, and so forth, as described above
+2. A time estimate for every task
+3. A list of at least two risks and corresponding mitigation strategies
+4. an outline of the process steps to be adopted in this project
+
+
+For scheduling:
+List of tasks to do:
+1. Decide Technology and setup github repo
+2. Determine which technology will be the new technology (NOSQL, etc...)
+3. Decide development method
+	-- determine what app needs to do
+	-- determine what pages will need to be developed
+	-- determine what functionalities the pages will have
+	-- determine what milestones will be and give them dates
+	-- determine who is working on what
+	-- determine development step dependecies
+4. Determine how we're QA'ing work
+5. Check if plan gets us full credit 
+
+
+What the app is:
+A room scheduling app that supports multiple locations and allows users to reserve rooms for determined times in determined locations as well as cancel reservations.
+
+Technical Issues:
+how do we want to display all the locations the user can choose from?
+how do we want to ensure that the only person that can cancel an event is the one who created it. (password protected?, create an account and reserve rooms after logging in?)
